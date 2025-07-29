@@ -15,7 +15,13 @@ A data analytics internship project to explore and visualize sales performance u
 
 ## 📁 Folder Structure
 
-📦 supermarket-sales-analysis/ ├── data/          → Raw and cleaned datasets ├── excel/         → Excel dashboards and charts ├── sql/           → SQL queries and scripts ├── python/        → Python notebooks (optional) ├── powerbi/       → Power BI report file (.pbix) ├── reports/       → Summary PDF, presentation slides
+📦 supermarket-sales-analysis/ 
+├── data/          → Raw and cleaned datasets 
+├── excel/         → Excel dashboards and charts 
+├── sql/           → SQL queries and scripts 
+├── python/        → Python notebooks (optional) 
+├── powerbi/       → Power BI report file (.pbix) 
+├── reports/       → Summary PDF, presentation slides
 
 ## 🎯 Objective
 Analyze Supermart sales data to:
