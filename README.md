@@ -13,7 +13,7 @@ A data analytics internship project to explore and visualize sales performance u
 - Python (Optional EDA with Pandas, Seaborn)
 - Git & GitHub (Version Control & Collaboration)
 
-## 📁 Folder Structure
+## 📁 Folder Structure'''
 
 📦 supermarket-sales-analysis/
 ├── data/          → Raw and cleaned datasets 
