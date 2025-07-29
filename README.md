@@ -15,7 +15,7 @@ A data analytics internship project to explore and visualize sales performance u
 
 ## 📁 Folder Structure
 
-📦 supermarket-sales-analysis/ 
+📦 supermarket-sales-analysis/
 ├── data/          → Raw and cleaned datasets 
 ├── excel/         → Excel dashboards and charts 
 ├── sql/           → SQL queries and scripts 
